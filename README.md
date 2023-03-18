@@ -13,3 +13,11 @@ The evaluation metric for this project is the RMSLE (root mean squared log error
 ## 4. Features
 Data Dictionary has been provided in the data folder of this project.
 There are 53 Feature variables in the dataset
+
+##Environment Dependencies: 
+*Python v3.x 
+*Numpy 
+*Pandas 
+*Matplotlib 
+*Scikit-Learn 
+*Notebook IDE
